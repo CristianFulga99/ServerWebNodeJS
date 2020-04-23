@@ -1,0 +1,22 @@
+{
+  "name": "esempio_express",
+  "version": "1.0.0",
+  "description": "bellissimo",
+  "main": "index.html",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristianFulga99/ServerWebNodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristianFulga99/ServerWebNodeJS/issues"
+  },
+  "homepage": "https://github.com/CristianFulga99/ServerWebNodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
